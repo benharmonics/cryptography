@@ -6,3 +6,6 @@ Implements the [**Euclidian Algorithm**](https://www.youtube.com/watch?v=Jwf6ncR
 
 ## SchnorrSignatures.ipynb
 Basic implementation of [**Schnorr digital signatures**](https://en.wikipedia.org/wiki/Schnorr_signature), useful in [multi-party computation](https://en.wikipedia.org/wiki/Secure_multi-party_computation).
+
+## RSAEncryption.ipynb
+Encodes and decodes an example message using [**RSA Encryption**](https://www.youtube.com/watch?v=4zahvcJ9glg&t=356s).
