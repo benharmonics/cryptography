@@ -9,3 +9,6 @@ Basic implementation of [**Schnorr digital signatures**](https://en.wikipedia.or
 
 ## RSAEncryption.ipynb
 Encodes and decodes an example message using [**RSA Encryption**](https://www.youtube.com/watch?v=4zahvcJ9glg&t=356s).
+
+## ModularArithmetic.ipynb
+Playing with principles of modular arithmetic
